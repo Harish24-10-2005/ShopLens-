@@ -11,7 +11,7 @@ Shop smarter, not harder, with **ShopWise AI**! 🚀✨ This AI-powered platform
 - **Sentiment Analysis** 📊: Analyze product reviews to make informed decisions.
 
 ## Demo 🎥
-[Watch the Demo Video](https://github.com/Harish24-10-2005/ShopLens-/blob/8d70d3ae56bb31b1b19513429c43f25f47e4e8c4/Demo.mp4)
+[Watch the Demo Video](https://www.linkedin.com/posts/harish-r-12372b28b_aiagents-ai-gemini-activity-7283095640232894464-32rz?utm_source=share&utm_medium=member_desktop)
 
 Upload a video or search for a specific product to see **ShopWise AI** in action. Here's a quick overview:
 1. Upload a video file (e.g., `.mp4`, `.mov`, `.avi`).
