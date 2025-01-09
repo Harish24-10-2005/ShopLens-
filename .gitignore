@@ -1,0 +1,11 @@
+# Ignore specific folders
+etc/
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+# Do not ignore these files
+.env
+!requirements.txt
+!.gitignore
